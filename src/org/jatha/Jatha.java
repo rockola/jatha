@@ -1593,7 +1593,7 @@ public class Jatha extends Object implements ActionListener
    */
   public void javaTrace(boolean on)
   {
-    SYSTEM_INFO.traceMethodCalls(on);  // traceInstructions(on) is also available
+    // SYSTEM_INFO.traceMethodCalls(on);  // traceInstructions(on) is also available
   }
 
   // @author  Micheal S. Hewett    hewett@cs.stanford.edu
